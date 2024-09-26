@@ -281,17 +281,3 @@ This project includes two separate systems:
 2. **Product Inventory System**: A console-based inventory system for managing products stored in a JSON file.
 
 Both systems demonstrate different techniques for handling CRUD operations, one with a REST API and the other with file-based persistence. Let me know if you encounter any issues or need further instructions!
-
----
-
-### Instructions to Use:
-
-1. Save this file as `README.md` in the root of your project directory.
-2. If you have separate repositories for both tasks, you can split the `README.md` into two files or adjust the details based on the repository.
-3. Commit and push the file to GitHub:
-
-   ```bash
-   git add README.md
-   git commit -m "Added documentation for Flask Tasks API and Product Inventory System"
-   git push origin main
-   ```
