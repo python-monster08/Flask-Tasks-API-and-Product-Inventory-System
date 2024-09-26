@@ -1,8 +1,14 @@
 [
     {
-        "Product ID": "1",
-        "Product Name": "Vivo Y200 Mobile",
+        "Product ID": "101",
+        "Product Name": "Laptop",
         "Quantity": 10,
+        "Price": 76000.0
+    },
+    {
+        "Product ID": "102",
+        "Product Name": "Vivo Y200 Mobile",
+        "Quantity": 15,
         "Price": 22000.0
     }
 ]
